@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+
 <body>
     <header>
         <h1>Leaderboard</h1>
@@ -15,17 +16,10 @@
         <section>
             <div id="recent-scores">
                 <h2>Recent Scores</h2>
-                <button type="submit">Refresh</button>
+                <button type="submit" id="refresh">Refresh</button>
             </div>
             <div>
-                <ul>
-                    <li>Test</li>
-                    <li>Test</li>
-                    <li>Test</li>
-                    <li>Test</li>
-                    <li>Test</li>
-                    <li>Test</li>
-                    <li>Test</li>
+                <ul id="ul">
                 </ul>
             </div>
         </section>
@@ -33,9 +27,9 @@
             <div id="form-section">
                 <form>
                     <h2>Add your score</h2>
-                    <input type="text">
-                    <input type="text">
-                    <button type="submit">Submit</button>
+                    <input type="text" placeholder="User" id="user" required>
+                    <input type="number" placeholder="Score" id="score" required>
+                    <button type="button" id="submit">Submit</button>
                 </form>
             </div>
         </section>
