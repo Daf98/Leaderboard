@@ -10,7 +10,7 @@
 - HTML, CSS, JS
 - Git, GitHub, Webpack
 
-## Live Demo (if available)
+## Live Demo
 
 [Live Demo](https://daf98.github.io/Leaderboard/)
 
