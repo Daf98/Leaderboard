@@ -47,7 +47,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Shout-out to [Zeeshan](https://github.com/zhadier) and [Firdavs](https://github.com/fed1k) for helping me with this project
+- Shout-out to [Zeeshan](https://github.com/zhadier) and [David](https://github.com/indigodavid/) for helping me with this project
 
 ## 📝 License
 
