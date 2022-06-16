@@ -21,7 +21,7 @@
 #### Step 1:
 - Clone this repo locally using git in the command line and the following command
  ```bash
- > git clone 
+ > git clone https://github.com/Daf98/Leaderboard.git
  ```
 - Alternatively, you can just download the complete zip file and extract the folder in your directory
 #### Step 2:
