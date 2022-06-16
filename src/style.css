@@ -1,20 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
 * {
   scroll-behavior: smooth;
   margin: 0;
   padding: 0;
   list-style: none;
   text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  color: #e4e4e4;
+}
+
+body {
+  background-image: url('./background.jpg');
+  background-repeat: none;
 }
 
 main {
   justify-content: center;
   gap: 5rem;
+  align-items: center;
 }
 
 main,
 #recent-scores,
 #form-section,
-form {
+form,
+header {
   display: flex;
 }
 
@@ -23,8 +34,12 @@ form {
   gap: 1rem;
 }
 
-h1 {
+header {
   padding: 1rem;
+  font-size: large;
+  justify-content: center;
+  padding-bottom: 5rem;
+  padding-top: 2rem;
 }
 
 #recent-scores {
@@ -33,10 +48,37 @@ h1 {
 }
 
 ul {
-  border: 1px solid black;
+  border: 1px solid #0b0b0b;
 }
 
 li {
   padding: 0.5rem;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid #0b0b0b;
+  background-color: #e4e4e4;
+  color: #07101e;
+}
+
+button {
+  border-color: #48d2d2;
+  background-color: #6afbfb;
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  color: black;
+}
+
+button:hover {
+  background-color: #0a4197;
+  font-weight: bolder;
+}
+
+#user,
+#score {
+  border-color: #59c5d0;
+  background-color: transparent;
+  border-radius: 0.2rem;
+}
+
+::placeholder {
+  color: #e4e4e4;
 }
