@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Socionics Convention
+# Leaderboard
 
 > This project is to submit your username and score so that everyone can compare their scores!
 
@@ -20,7 +20,7 @@
 #### Step 2:
 - In the terminal, you can run:
 ```bash
-> cd portfolio
+> cd Leaderboard
 > code .
 ```
 - Then open index.html in a live server.
@@ -28,7 +28,7 @@
 ## Online version
 [Live Demo](https://daf98.github.io/Leaderboard/)
 
-## Authors
+## Author
 
 👤 **Dafne Azzolina**
 
@@ -48,4 +48,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://www.mit.edu/) licensed.
+This project is [MIT](./MIT.md) licensed
