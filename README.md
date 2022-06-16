@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo](https://daf98.github.io/Leaderboard/)
+[Live Demo](https://daf98.github.io/Leaderboard/dist)
 
 
 ## Getting Started
