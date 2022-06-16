@@ -1,8 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Socionics Convention
+# Leaderboard
 
 > This project is to submit your username and score so that everyone can compare their scores!
+
 
 ## Built With
 
