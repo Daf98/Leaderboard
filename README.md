@@ -28,6 +28,7 @@
 - In the terminal, you can run:
 ```bash
 > cd Leaderboard
+> npm install
 > code .
 ```
 - Then open index.html in a live server.
