@@ -4,6 +4,7 @@
 
 > This project is to submit your username and score so that everyone can compare their scores!
 
+
 ## Built With
 
 - HTML, CSS, JS
@@ -48,4 +49,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed
+This project is [MIT](https://www.mit.edu/) licensed.
