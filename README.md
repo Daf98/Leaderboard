@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Leaderboard
+![](https://user-images.githubusercontent.com/82343891/174389915-ea5fa370-358a-44b9-a2eb-a8de103c9c7f.png)
 
 > This project is to submit your username and score so that everyone can compare their scores!
 
